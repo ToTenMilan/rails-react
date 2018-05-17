@@ -1,0 +1,2 @@
+[## Rails, React, ActiveAdmin](
+https://blog.heroku.com/a-rock-solid-modern-web-stack?c=7013A000000ZGTBQA4&utm_campaign=Newsletter_May_2018&utm_medium=email&utm_source=newsletter&utm_content=blog&utm_term=web_stack)
